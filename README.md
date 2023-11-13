@@ -1,8 +1,8 @@
 # Hi I'm Alex
 ## About me
-- 👷‍♀️ Proudly working at HPE CDS as Bussiness Application Engineer, building awesome Rest APIs
-- ⚙ I work with Java, Spring and Oracle
-- 🎲 In my free time I usually create OOSS libraries like [Merger](https://github.com/agomezlucena/merger) and play videogames
+- 👷‍♀️ Proudly working at HPE CDS as Bussiness Application Engineer, building awesome Rest APIs.
+- ⚙ I work with Java, Spring and Oracle.
+- 🎲 In my free time I usually create OOSS libraries like [Merger](https://github.com/agomezlucena/merger) and play videogames.
 - 🧠 I use Domain Driven Design and TDD for my developments.
 - 📙 I like to read technical books like Clean Code, and Implementing Domain Driven Design.
 
