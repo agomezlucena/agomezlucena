@@ -1,6 +1,6 @@
 # Hi I'm Alex
 ## About me
-- 👷‍♀️ Proudly working at Copyright clearence center as Senior backend developer, building awesome software.
+- 👷‍♀️ Proudly working at Copyright clearence center as backend developer, building awesome software.
 - ⚙ I work with Java, Spring and Oracle.
 - 🎲 In my free time I usually create OOSS libraries like [Merger](https://github.com/agomezlucena/merger) and play videogames.
 - 🧠 I use Domain Driven Design and TDD for my developments.
